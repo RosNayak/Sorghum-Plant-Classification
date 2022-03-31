@@ -7,8 +7,9 @@ Available on Kaggle : https://www.kaggle.com/competitions/sorghum-id-fgvc-9/data
 1. Optimizer -> Adam
 2. Learning Rate -> 2e-5
 3. Epochs -> 10
-4. Loss -> Focal Loss with penalty factor of 2
-5. Models used -> Swin Transformer and Efficient Net B4
+4. dropout -> 0.5
+5. Loss -> Focal Loss with penalty factor of 2
+6. Models used -> Swin Transformer and Efficient Net B4
 
 ## Result
 
