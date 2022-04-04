@@ -51,6 +51,6 @@ Efficient Net B3 trained for 20 epochs could achieve a test accuracy of 80%.
 
 ## Observations
 1. Since the dataset was highly imbalanced, use of Focal loss improved the performance of the model by increasing the test accuracy by 2%.
-2. EfficientNet was tending to overfit the dataset. Hence performing poorly on the test set.
+2. EfficientNet was tending to overfit the dataset with very less learning rate. Hence performing poorly on the test set.
 3. Adaptive learning rate based on the loss and training for more number of epochs gave significant improvement in the testset prediction.
 
