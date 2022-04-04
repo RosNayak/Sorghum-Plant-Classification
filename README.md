@@ -34,7 +34,7 @@ Efficient Net trained for 10 epochs could achieve a test accuracy of 49%.
 ### Weights and Biases Chart Comparison
 ![Performance Comparison Chart](https://user-images.githubusercontent.com/45042726/161035988-1d08fd15-8d4e-46c7-ab51-a379133a8757.png)
 
-#### The models further were written in pytorch lightning module. Pytorch Lightning ensures efficient usage of the GPU, hence does not give CUDA memory exceeded error.
+#### The models further were written in pytorch lightning module. Pytorch Lightning ensures efficient usage of the GPU, hence does not give CUDA memory exceeded error. The implementation is done in the pytorch-lightning-sorghum-classification-notebook.ipynb.
 
 ### EfficientNetB3
 
