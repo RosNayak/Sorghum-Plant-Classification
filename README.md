@@ -45,6 +45,8 @@ Efficient Net trained for 10 epochs could achieve a test accuracy of 49%.
 4. dropout -> 0.5
 5. Loss -> Focal Loss with penalty factor of 2
 
+![image](https://user-images.githubusercontent.com/45042726/161562522-913af5c7-11a2-4acb-ac64-57fc24018238.png)
+
 ![eff net b3](https://user-images.githubusercontent.com/45042726/161560275-29615bc7-5f83-4dde-8e89-e947c6eb706f.png)
 
 Efficient Net B3 trained for 20 epochs could achieve a test accuracy of 80%.
