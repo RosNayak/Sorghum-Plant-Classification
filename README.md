@@ -15,6 +15,7 @@ Available on Kaggle : https://www.kaggle.com/competitions/sorghum-id-fgvc-9/data
 5. Loss -> Focal Loss with penalty factor of 2
 
 ![SwinT Focal](https://user-images.githubusercontent.com/45042726/161034604-b42265b3-8d2f-4509-b184-64b788badf89.jpg)
+
 Swin Transformer trained for 10 epochs could achieve a test accuracy of 53%.
 
 ### EfficientNetB4
@@ -27,6 +28,7 @@ Swin Transformer trained for 10 epochs could achieve a test accuracy of 53%.
 5. Loss -> Focal Loss with penalty factor of 2
 
 ![eff net b4](https://user-images.githubusercontent.com/45042726/161035854-550be355-7f81-471e-96cf-ce1586d633ad.jpg)
+
 Efficient Net trained for 10 epochs could achieve a test accuracy of 49%.
 
 ### Weights and Biases Chart Comparison
@@ -44,6 +46,7 @@ Efficient Net trained for 10 epochs could achieve a test accuracy of 49%.
 5. Loss -> Focal Loss with penalty factor of 2
 
 ![eff net b3](https://user-images.githubusercontent.com/45042726/161560275-29615bc7-5f83-4dde-8e89-e947c6eb706f.png)
+
 Efficient Net B3 trained for 20 epochs could achieve a test accuracy of 80%.
 
 ## Observations
