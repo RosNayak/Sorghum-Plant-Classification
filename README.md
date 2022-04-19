@@ -51,8 +51,17 @@ Efficient Net trained for 10 epochs could achieve a test accuracy of 49%.
 
 Efficient Net B3 trained for 20 epochs could achieve a test accuracy of 80%.
 
+### EfficientNetB0
+
+Training parameters same as for EfficientNetB3
+
+<img width="609" alt="image" src="https://user-images.githubusercontent.com/45042726/164081750-c64bdfe1-91a0-4e3f-8362-7bac061e962d.png">
+
+<img width="536" alt="eff net b0" src="https://user-images.githubusercontent.com/45042726/164081622-eb646147-fb54-49ec-a9fd-9d35143ef27b.png">
+
+Efficient Net B0 trained for 20 epochs could achieve a test accuracy of 78%.
+
 ## Observations
 1. Since the dataset was highly imbalanced, use of Focal loss improved the performance of the model by increasing the test accuracy by 2%.
 2. EfficientNet was tending to overfit the dataset with very less learning rate. Hence performing poorly on the test set.
 3. Adaptive learning rate based on the loss and training for more number of epochs gave significant improvement in the testset prediction.
-
